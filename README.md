@@ -1,2 +1,1 @@
-# RL-FX-Trading
-Reinforcement Learning in FX Trading
+# Reinforcement Learning for FX trading
