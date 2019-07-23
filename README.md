@@ -36,17 +36,17 @@ Training Pipeline
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-algo.PNG" 
- width="620" height="240" />
+ width="630" height="230" />
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl.png" 
- width="560" height="250" />
+ width="560" height="240" />
 </p>
 <p align="center">
 DRL Model Structure
 </p>
 
-
+<br>
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/w1_EURUSD.png" 
@@ -67,17 +67,17 @@ Experiment Results for DRL on EUR-USD
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_Model.png" 
- width="500" height="220" />
+ width="500" height="200" />
 </p>
 <p align="center">
 DQN Model Structure
 </p>
 
-
+<br>
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_result.png" 
- width="610" height="170" />
+ width="640" height="180" />
 </p>
 <p align="center">
 Experiment Results for DQN on AUD-USD
