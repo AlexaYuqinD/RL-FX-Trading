@@ -26,7 +26,7 @@ Data Statistics
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/Trainingpipe.png" 
- width="310" height="160" />
+ width="320" height="150" />
 </p>
 <p align="center">
 Training Pipeline
@@ -36,7 +36,7 @@ Training Pipeline
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-algo.PNG" 
- width="600" height="270" />
+ width="610" height="250" />
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl.png" 
@@ -62,11 +62,11 @@ Experiment Results for DRL on EUR-USD
 ## Deep Q-Network
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/dqn-algo.PNG" 
- width="600" height="270" />
+ width="610" height="260" />
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_Model.png" 
- width="500" height="260" />
+ width="500" height="240" />
 </p>
 <p align="center">
 DQN Model Structure
@@ -75,7 +75,7 @@ DQN Model Structure
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_result.png" 
- width="600" height="200" />
+ width="610" height="170" />
 </p>
 <p align="center">
 Experiment Results for DQN on AUD-USD
