@@ -93,3 +93,9 @@ DQN Model Structure
 Experiment Results for DQN on AUD-USD
 </p>
 
+## Reference
+[1] Yue Deng, Feng Bao, Youyong Kong, Zhiquan Ren, and Qionghai Dai. Deep direct reinforcement learning for financial signal representation and trading. IEEE transactions on neural networks and learning systems, 28(3):653–664, 2016.
+
+[2] Chien Yi Huang. Financial trading as a game: A deep reinforcement learning approach. arXiv preprint arXiv:1807.02787, 2018.
+
+[3] John Moody and Matthew Saffell. Learning to trade via direct reinforcement. IEEE transactions on neural Networks, 12(4):875–889, 2001.
