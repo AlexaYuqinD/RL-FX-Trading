@@ -67,7 +67,7 @@ DRL Performance Summary for EUR-USD on Test Set
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-form.PNG" 
- width="400" height="80" />
+ width="360" height="80" />
 </p>
 
 ## Deep Q-Network
