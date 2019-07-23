@@ -14,11 +14,11 @@ High-frequency(milisecond) FX trading data provided by Integral. The dataset con
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/image_0.png" 
- width="250" height="150" />
+ width="250" height="200" />
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/image_1.png" 
- width="250" height="150" />
+ width="250" height="200" />
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/image_2.png" 
- width="250" height="150" />
+ width="250" height="200" />
 </p>
 <p align="center">
 Data Statistics
@@ -26,31 +26,34 @@ Data Statistics
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/Trainingpipe.png" 
- width="300" height="180" />
+ width="310" height="160" />
 </p>
 <p align="center">
 Training Pipeline
 </p>
+
 ## Direct Reinforcement Learning
+
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-algo.PNG" 
- width="450" height="270" />
+ width="600" height="270" />
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl.png" 
- width="560" height="290" />
+ width="560" height="280" />
 </p>
 <p align="center">
 DRL Model Structure
 </p>
 
+
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/w1_EURUSD.png" 
- width="250" height="150" />
+ width="250" height="170" />
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/w2_EURUSD.png" 
- width="250" height="150" />
+ width="250" height="170" />
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/w3_EURUSD.png" 
- width="250" height="150" />
+ width="250" height="170" />
 </p>
 <p align="center">
 Experiment Results for DRL on EUR-USD
@@ -59,19 +62,20 @@ Experiment Results for DRL on EUR-USD
 ## Deep Q-Network
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/dqn-algo.PNG" 
- width="450" height="270" />
+ width="600" height="270" />
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_Model.png" 
- width="600" height="290" />
+ width="500" height="260" />
 </p>
 <p align="center">
 DQN Model Structure
 </p>
 
+
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_result.png" 
- width="600" height="300" />
+ width="600" height="200" />
 </p>
 <p align="center">
 Experiment Results for DQN on AUD-USD
