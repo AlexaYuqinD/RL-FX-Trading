@@ -14,35 +14,45 @@ High-frequency(milisecond) FX trading data provided by Integral. The dataset con
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/image_0.png" 
- width="100" height="100" />
+ width="150" height="100" />
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/image_1.png" 
- width="100" height="100" />
+ width="150" height="100" />
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/image_2.png" 
- width="100" height="100" />
+ width="150" height="100" />
+</p>
+<p align="center">
+Data Statistics
 </p>
 
+<p align="center">
+<img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/Trainingpipe.png" 
+ width="500" height="290" />
+</p>
+<p align="center">
+Training Pipeline
+</p>
 ## Direct Reinforcement Learning
 <p align="center">
-<img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-algo.png" 
+<img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-algo.PNG" 
  width="400" height="290" />
+</p>
+<p align="center">
+<img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl.png" 
+ width="500" height="290" />
 </p>
 <p align="center">
 DRL Model Structure
 </p>
-<p align="center">
-<img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl.png" 
- width="400" height="290" />
-</p>
 
 ## Deep Q-Network
 <p align="center">
-<img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/dqn-model.png" 
+<img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/dqn-algo.PNG" 
  width="400" height="290" />
-</p>
-<p align="center">
-DQN Model Structure
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_Model.png" 
- width="400" height="290" />
+ width="500" height="290" />
+</p>
+<p align="center">
+DQN Model Structure
 </p>
