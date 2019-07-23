@@ -26,7 +26,7 @@ Data Statistics
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/Trainingpipe.png" 
- width="330" height="140" />
+ width="330" height="130" />
 </p>
 <p align="center">
 Training Pipeline
@@ -67,7 +67,7 @@ DRL Performance Summary for EUR-USD on Test Set
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-form.PNG" 
- width="600" height="180" />
+ width="400" height="80" />
 </p>
 
 ## Deep Q-Network
