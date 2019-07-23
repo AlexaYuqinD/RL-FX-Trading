@@ -26,7 +26,7 @@ Data Statistics
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/Trainingpipe.png" 
- width="320" height="150" />
+ width="330" height="150" />
 </p>
 <p align="center">
 Training Pipeline
@@ -36,15 +36,16 @@ Training Pipeline
 
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl-algo.PNG" 
- width="610" height="250" />
+ width="620" height="240" />
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/drl.png" 
- width="560" height="280" />
+ width="560" height="250" />
 </p>
 <p align="center">
 DRL Model Structure
 </p>
+
 
 
 <p align="center">
@@ -66,11 +67,12 @@ Experiment Results for DRL on EUR-USD
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_Model.png" 
- width="500" height="240" />
+ width="500" height="220" />
 </p>
 <p align="center">
 DQN Model Structure
 </p>
+
 
 
 <p align="center">
