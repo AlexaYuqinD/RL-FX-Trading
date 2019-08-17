@@ -77,7 +77,7 @@ DRL Performance Summary for EUR-USD on Test Set
 </p>
 <p align="center">
 <img src="https://github.com/AlexaYuqinD/RL-FX-Trading/blob/master/images/DQN_Model.png" 
- width="550" height="200" />
+ width="600" height="200" />
 </p>
 <p align="center">
 DQN Model Structure
